@@ -9,6 +9,10 @@ body {
   width: 100vw;
 }
 
+a{
+    color: aliceblue;
+}
+
 .monaco-editor {
   height: 100%;
   width: 100%;

@@ -1,5 +1,5 @@
 {
-    "name": "electron-code-editor",
+    "name": "code-editor",
     "productName": "electron-code-editor",
     "version": "1.0.0",
     "description": "A minimal code editor, based on Electron",
@@ -12,11 +12,8 @@
     },
     "keywords": [
         "Electron",
-        "quick",
-        "start",
-        "tutorial",
-        "demo"
-    ],    "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+        "quick"
+    ],    "author": "Kuldeep Singh Sidhu <kuldeepsinghsidhu.esy.es>",
     "license": "MIT",
     "config": {
         "forge": {
@@ -34,17 +31,17 @@
             },
             "electronPackagerConfig": {},
             "electronWinstallerConfig": {
-                "name": "electron_code_editor_forge"
+                "name": "code_editor_forge"
             },
             "electronInstallerDebian": {},
             "electronInstallerRedhat": {},
             "github_repository": {
-                "owner": "",
-                "name": ""
+                "owner": "singhsidhukuldeep",
+                "name": "Code-Editor"
             },
             "windowsStoreConfig": {
                 "packageName": "",
-                "name": "electroncodeeditorforge"
+                "name": "codeeditorforge"
             }
         }
     },
