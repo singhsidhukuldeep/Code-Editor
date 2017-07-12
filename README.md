@@ -2,7 +2,9 @@
 
 > A code editor, based on Electron
 
-##Advantages
+![Editor Working](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app_working.png)
+
+## Advantages
 
 > This code editor is written completely using `JavaScript` therefore,
 it is completely platform independent.
@@ -13,12 +15,16 @@ it is completely platform independent.
 
 To run this app you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
+![Terminal Commands](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/terminal.png)
+
 ```bash
 git clone https://github.com/singhsidhukuldeep/code-editor
 cd electron-code-editor
 npm install
 npm start
 ```
+
+![Editor Started](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app.png)
 
 ## Working
 
