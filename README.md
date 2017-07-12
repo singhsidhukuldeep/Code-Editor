@@ -1,6 +1,13 @@
-# electron-code-editor
+# Code-Editor
 
-> A minimal code editor, based on Electron
+> A code editor, based on Electron
+
+##Advantages
+
+> This code editor is written completely using `JavaScript` therefore,
+it is completely platform independent.
+
+> It uses `Electron` which is combination of `Node.JS` and `Chromium` (Base of `Google Chrome`)
 
 ## To Use
 
@@ -35,7 +42,8 @@ Everything is packaged using Node Package Manager (`npm`)
 - [hokein/electron-sample-apps](https://github.com/hokein/electron-sample-apps) - small demo apps for the various Electron APIs
 
 ## CREDITS
-Kuldeep Singh Sidhu
+
+>Kuldeep Singh Sidhu
 
 Github: [github/singhsidhukuldeep](https://github.com/singhsidhukuldeep)
 `https://github.com/singhsidhukuldeep`
