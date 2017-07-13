@@ -26,15 +26,63 @@ npm start
 
 ![Editor Working Gif](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app_working.gif)
 
+## Languages Supported
+```
+* bat
+* coffee script
+* cpp
+* csharp
+* fsharp
+* go
+* handlebars
+* html
+* ini
+* lua
+* objective-c
+* postiats
+* php
+* powershell
+* pug
+* python
+* r
+* razor
+* ruby
+* sql
+* swift
+* vb
+* xml
+```
+
+Also `css` dialects:
+
+```
+* css
+* less
+* scss
+```
+
+Language in the project is set to `JavaScript`
+
+To change go to `renderer.js` and change there:
+
+```$xslt
+loader().then((monaco) => {
+  const editor = monaco.editor.create(document.getElementById('container'), {
+    language: 'javascript',//Change your language here
+    theme: 'vs-dark',
+    automaticLayout: true,
+  });
+```
+
 ## Working
 
 This app is build using
-```$xslt
+
 - Microsoft Monaco Editor
 - Node.js
 - Electron.js
 - Electron forge
-```
+
 
 Everything is packaged using Node Package Manager (`npm`)
 

@@ -4,7 +4,7 @@ import FileManager from './filemanager';
 
 loader().then((monaco) => {
   const editor = monaco.editor.create(document.getElementById('container'), {
-    language: 'javascript',
+    language: 'javascript',//Change your language here
     theme: 'vs-dark',
     automaticLayout: true,
   });
