@@ -19,7 +19,7 @@ To run this app you'll need [Git](https://git-scm.com) and [Node.js](https://nod
 
 ```bash
 git clone https://github.com/singhsidhukuldeep/code-editor
-cd electron-code-editor
+cd code-editor
 npm install
 npm start
 ```
@@ -35,6 +35,7 @@ This app is build using
 - Electron.js
 - Electron forge
 ```
+![Editor Working Gif](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app_working.gif)
 
 Everything is packaged using Node Package Manager (`npm`)
 
