@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 
-![Editor Started](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app.png)
+![Editor Working Gif](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app_working.gif)
 
 ## Working
 
@@ -35,7 +35,6 @@ This app is build using
 - Electron.js
 - Electron forge
 ```
-![Editor Working Gif](https://github.com/singhsidhukuldeep/Code-Editor/raw/master/assets/app_working.gif)
 
 Everything is packaged using Node Package Manager (`npm`)
 
