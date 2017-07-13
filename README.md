@@ -84,7 +84,7 @@ This app is build using
 - [Electron forge](https://electronforge.io/)
 
 
-Everything is packaged using Node Package Manager (`npm`)
+Everything is packaged using [Node Package Manager](https://www.npmjs.com/) (`npm`)
 
 <!---## Resources for Learning Electron
 
