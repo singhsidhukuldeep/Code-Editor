@@ -78,10 +78,10 @@ loader().then((monaco) => {
 
 This app is build using
 
-- Microsoft Monaco Editor
-- Node.js
-- Electron.js
-- Electron forge
+- [Microsoft Monaco Editor](https://microsoft.github.io/monaco-editor/)
+- [Node.js](https://nodejs.org/)
+- [Electron.js](https://electron.atom.io/)
+- [Electron forge](https://electronforge.io/)
 
 
 Everything is packaged using Node Package Manager (`npm`)
